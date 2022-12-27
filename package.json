@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/jgraph/drawio",
   "dependencies": {
-    "@electron/remote": "^2.0.8",
+    "@electron/remote": "^2.0.9",
     "commander": "^9.4.0",
     "compression": "^1.7.4",
     "crc": "^4.1.1",
